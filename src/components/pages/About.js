@@ -22,9 +22,9 @@ export default function About() {
         <div>
           <h3>About Our Organization</h3>
           <p>
-            We offer fogging for your business or home. This insures that all
+            We offer fogging for your business or home. Insuring all
             surfaces are treated, which regular cleaning and disinfecting won't
-            reach and many times is simply missed. The product we use to fog is
+            reach and many times is simply missed. The product we use is
             non-toxic, pet and people friendly, and food area safe. No wipe down
             necessary. It is EPA approved, and kills the
             <span class="corona-decoration">Coronavirus</span>
