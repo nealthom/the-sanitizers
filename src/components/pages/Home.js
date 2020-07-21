@@ -111,7 +111,7 @@ export default function Home() {
         <div>
           <h3>Disposable masks for sale</h3>
           <p>
-            THE ULTIMATE MULTIPURPOSE MASK Disposable Throwaway Face Masks
+            THE ULTIMATE MULTIPURPOSE MASK
             Provide Fast, Effective Protection Against Mold, Allergens & Fumes
             Great for Airport Travel, Public Transportation, Social Distancing,
             Cleaning, Grocery Shopping
